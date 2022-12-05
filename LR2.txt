@@ -1,1 +1,3 @@
-Initial condition
+Second commit
+
+This is new state
