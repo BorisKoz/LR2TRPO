@@ -1,3 +1,5 @@
 Second commit
 
 This is new state
+
+State on branch2
